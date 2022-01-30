@@ -28,8 +28,11 @@ project docs with modern CSS [here](https://docs.jade.fyi).
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) work,
   focusing on completion and core components
 - [mu](https://github.com/lf-/mu), a work-in-progress kernel in rust
-- [pwintln](https://github.com/lf-/pwintln) uwu, a rust hack that hooks
+- [pwintln](https://gitub.com/lf-/pwintln) uwu, a rust hack that hooks
   standard output at runtime to rewrite it in uwu-speak
+- [lesble](https://github.com/jades-projects/lesble), a wordle clone written in typescript
+- [qr-stl](https://github.com/jades-projects/qr-stl),
+  a rust program to make STL files for QR codes with a web/wasm front end
 - asm211 (private), a rust based assembler for the toy architecture used in
   CPEN 211 at UBC
 - [aiobspwm](https://github.com/lf-/aiobspwm)/[aiopanel](https://github.com/lf-/aiopanel),
