@@ -10,15 +10,8 @@ project docs with modern CSS [here](https://docs.jade.fyi).
 
 #### stuff i do for work
 
-- maintain [lti13](https://github.com/lf-/lti13), the Haskell library for
-  Learning Tools Interoperability 1.3 for learning tools, allowing one click
-  login and automatic grade reporting for students on most learning
-  management systems. i also maintain its integration in
-  [carnap.io](https://github.com/carnap/carnap)
-
-- maintain [Nix](https://nixos.org) build infrastructure for carnap.io,
-  enabling developers to get a known working Haskell + GHCJS development
-  environment on any Linux computer in three commands
+- i am currently interning at Mercury writing financial/web code in Haskell
+  (any views i express on here probably don't represent those of my employer)
 
 #### stuff i do in my spare time
 
