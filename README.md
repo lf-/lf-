@@ -5,8 +5,7 @@ hello!
 i am a systems programmer, with a particular interest in
 [rust](https://rust-lang.org) and hardware
 
-i have a [blog on my website](https://jade.fyi), and i maintain a site with GNU
-project docs with modern CSS [here](https://docs.jade.fyi).
+i have a [blog on my website](https://jade.fyi), and i maintain a site with pleasant to use single page docs for GNU, zsh, and PostgreSQL [here](https://docs.jade.fyi).
 
 #### stuff i do for work
 
