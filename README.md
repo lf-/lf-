@@ -20,7 +20,7 @@ i have a [blog on my website](https://jade.fyi), and i maintain a site with plea
 - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) work,
   focusing on completion and core components
 - [mu](https://github.com/lf-/mu), a work-in-progress kernel in rust
-- [pwintln](https://gitub.com/lf-/pwintln) uwu, a rust hack that hooks
+- [pwintln](https://github.com/lf-/pwintln) uwu, a rust hack that hooks
   standard output at runtime to rewrite it in uwu-speak
 - [lesble](https://github.com/jades-projects/lesble), a wordle clone written in typescript
 - [qr-stl](https://github.com/jades-projects/qr-stl),
